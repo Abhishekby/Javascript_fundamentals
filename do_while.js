@@ -4,4 +4,4 @@ do {
   text += i + "<br>";
   i++;
 }
-while (i < 5);
+while (i < 10);
